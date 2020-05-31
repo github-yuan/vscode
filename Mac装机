@@ -8,4 +8,6 @@ export PATH=/usr/local/bin:$PATH
 1.brew install git
 2.修改.zshrc,https://www.zzhyun.com/2020/05/11/148/
 
+三.安装jdk8
+
 
