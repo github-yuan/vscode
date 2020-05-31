@@ -1,0 +1,11 @@
+一.安装homebrew
+1.下载install.sh到本地，修改脚本中BREW_REPO = “https://github.com/Homebrew/brew“为BREW_REPO = “https://mirrors.ustc.edu.cn/brew.git “，执行脚本
+2.参考：https://www.cnblogs.com/netstatgood/p/12318932.html
+修改了sudo vim .bash_profile,https://blog.csdn.net/li396864285/article/details/52572163
+export PATH=/usr/local/bin:$PATH
+
+二.安装git
+1.brew install git
+2.修改.zshrc,https://www.zzhyun.com/2020/05/11/148/
+
+
