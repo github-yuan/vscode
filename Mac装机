@@ -9,5 +9,20 @@ export PATH=/usr/local/bin:$PATH
 2.修改.zshrc,https://www.zzhyun.com/2020/05/11/148/
 
 三.安装jdk8
+1.配置java_home：export JAVA_HOME=$(/usr/libexec/java_home)
+https://www.jianshu.com/p/0036a344509e
+
+四.安装idea
+https://www.zhhub.com/jetbrains/
+五.maven
+
+六.数据库mysql8.0
+
+七.Redis
+
+八.RabbitMQ
+https://www.rabbitmq.com/install-homebrew.html
+九.WebStrom
+https://www.zhhub.com/jetbrains/
 
 
