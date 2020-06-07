@@ -15,8 +15,12 @@ https://www.jianshu.com/p/0036a344509e
 四.安装idea
 https://www.zhhub.com/jetbrains/
 五.maven
+brew install maven
+https://www.cnblogs.com/jingmoxukong/p/6050172.html
 
-六.数据库mysql8.0
+六.数据库mysql
+5.6
+8.0
 
 七.Redis
 
